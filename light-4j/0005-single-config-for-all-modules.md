@@ -24,7 +24,7 @@ mask:
     the single configuration file `application` extended with json, yaml, or
     yml. The main functions for it is to check whether load config from 
     `application.yaml` is valid and then load object config or map config from 
-    `config.yaml`.
+    `application.yaml`.
 
     1.1 Enable the function
     
